@@ -1,3 +1,4 @@
+# For more information about this project, check out my website: https://fringe-soldier-fcf.notion.site/Google-E-commerce-Strategy-Optimisation-using-SQL-Python-1cf8c4e4debd80d9ab2bde4f7d3b2e1a
 
 # --- SETUP INSTRUCTIONS FOR A VIRTUAL ENVIRONMENT ---
 
