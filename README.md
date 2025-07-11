@@ -1,4 +1,4 @@
-# For more information about this project, please visit my website -> My portfolio: https://bit.ly/Personal-Data-Portfolio
+For more information about this project, please visit my website -> My portfolio: https://bit.ly/Personal-Data-Portfolio
 
 # --- SETUP INSTRUCTIONS FOR A VIRTUAL ENVIRONMENT ---
 
