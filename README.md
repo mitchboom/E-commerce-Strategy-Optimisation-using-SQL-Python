@@ -1,6 +1,6 @@
 For more information about this project, please visit my website -> My portfolio: https://bit.ly/Personal-Data-Portfolio
 
-# --- SETUP INSTRUCTIONS FOR A VIRTUAL ENVIRONMENT ---
+--- SETUP INSTRUCTIONS FOR A VIRTUAL ENVIRONMENT ---
 
 ```bash
 
@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 ```
 
-# --- SETUP DONE ---
+--- SETUP DONE ---
 
 
-# For accessing Jupytor notebook run:
+For accessing Jupytor notebook run:
 jupyter notebook
